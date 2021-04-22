@@ -21,6 +21,7 @@
 /RETAILER ITEM/d
 /THE PRECEDING ITEM/d
 /REPORT AND\/OR/d
+/1L/d
 />>>>>>/d
 
 # A little aesthetic clean-up 
